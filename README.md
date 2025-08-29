@@ -1,2 +1,2 @@
 # admrtin.github.io
-Personal Website
+My Personal Website, created with jekyll-theme-minimal
