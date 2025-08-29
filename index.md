@@ -10,6 +10,5 @@ Through my work experience, I discovered a passion for software engineering and 
 ## Research
 I am beginning research with the [NAPPLab](https://www.napplab.org) under Dr. Micah Corah at the the School of Mines. My planned focus is on optimization and motion planning algorithms for coordinating distributed multi-robot systems.
 
-
 ## Hobbies
 I enjoy bouldering, skiing, playing music, and cooking.
