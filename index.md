@@ -14,5 +14,5 @@ I am beginning research with the [NAPPLab](https://www.napplab.org) under Dr. Mi
 I enjoy bouldering, skiing, playing music, and cooking.
 
 ## Contact
-Email: (adam_martin@mines.edu)
+Email: [adam_martin@mines.edu](adam_martin@mines.edu)
 
