@@ -13,7 +13,6 @@ I am beginning research with the [NAPPLab](https://www.napplab.org) under Dr. Mi
 ## Hobbies
 I enjoy bouldering, skiing, playing music, and cooking.
 
-### Contact info
-Email: 
-- [Mines](adam_martin@mines.edu)
-- [Personal](adammichaelm.p@gmail.com)
+## Contact
+Email: (adam_martin@mines.edu)
+
