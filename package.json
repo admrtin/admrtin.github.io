@@ -43,5 +43,7 @@
 	},
 	"dependencies": {
 		"@zachleat/heading-anchors": "^1.0.5"
-	}
+	},
+	"main": "eleventy.config.js",
+	"keywords": []
 }

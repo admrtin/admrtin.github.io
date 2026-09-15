@@ -1,8 +1,8 @@
 export default {
-	title: "Adam Martin",
+	title: "admrtin",
 	url: "https://github.com/admrtin",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "<M.S. Computer Science at Mines>",
 	author: {
 		name: "Adam Martin",
 		email: "admrtin@proton.me",
